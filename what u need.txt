@@ -1,0 +1,10 @@
+what u need :
+	- momentari swicth button x1
+	- baterai cell 18650      x3
+	- 3x 18650 baterai holder x1 (opsional)
+	- bms 3s 10A or higher    x1
+	- cable u need
+	- box for housing         x1
+	- diode 4a                x1
+	- dc power socket         x2
+	- vol amp meter           x1
